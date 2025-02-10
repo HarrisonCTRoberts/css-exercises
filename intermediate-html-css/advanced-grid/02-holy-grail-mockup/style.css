@@ -71,8 +71,6 @@
 
 .nav {
   background-color: #C50208;
-  display: grid;
-  place-items: center;
 }
 
 .nav ul {
